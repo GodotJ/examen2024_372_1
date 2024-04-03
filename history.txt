@@ -1,0 +1,116 @@
+    1  git init
+    2  git status
+    3  git config --global user.email junior.aguayo@uabc.edu.mx
+    4  git config --global user.name GodotJ
+    5  git clone https://github.com/GodotJ/PracticasDSW.git
+    6  git pull
+    7  git add .
+    8  git add C:\Users\alumnoFCA\Documents\Practicas-DSW\PracticasDSW\Practica2 PracticasDSW
+    9  git add .
+   10  git status
+   11  git commit -m "Practica 2"
+   12  git push -u origin main
+   13  git pull
+   14  git add .
+   15  git commit -m "Examen 1"
+   16  git push -u origin main
+   17  pip --version
+   18  pip install jupyterlab
+   19  python -m venv virtual
+   20  ls virtual/
+   21  source ./virtual/Scripts/activate
+   22  ls
+   23  pip list
+   24  pip install ipython
+   25  ipython
+   26  pip list
+   27  pip frezee > requirements.txt
+   28  pip freeze > requirements.txt
+   29  cat requeriments.txt
+   30  cat requirements.txt
+   31  start .
+   32  deactivate
+   33  git pull
+   34  source ./virtual/Scripts/activate
+   35  python -m ven
+   36  source ./virtual/Scripts/activate
+   37  pip list
+   38  pip install -r requirements.txt 
+   39  pip install jupyter
+   40  pip uninstall jupyter
+   41  pip install jupyterlab
+   42  git add .
+   43  git commit -m "Practica 17"
+   44  git push -u origin main
+   45  git add .
+   46  git commit -m "Practica 18"
+   47  git push -u origin main
+   48  git add .
+   49  git commit -m "Practica 19"
+   50  git push -u origin main
+   51  history
+   52  jupyterlab
+   53  jupyter lab
+   54  source ./virtual/scripts/activate
+   55  jupyter lab
+   56  jupyterlab
+   57  git clone https://github.com/CheemsDoggie/jupyterexample.git
+   58  history
+   59  jupyterlab
+   60  history
+   61  jupyterlab
+   62  jupyter lab
+   63  source ./virtual/scripts/activate
+   64  jupyterlab
+   65  jupyter lab
+   66  git pull
+   67  git add .
+   68  git commit -m "Practica 23,24,25"
+   69  git push -u origin main
+   70  [200~history > history_backup
+   71  history > history_backup
+   72  git clone https://gist.github.com/c30b7f7a5fb67e737fba21e63d1e05db.git
+   73  ~
+   74  ~
+   75  ~
+   76  :
+   77  ..
+   78  history
+   79  mkdir examen372
+   80  cd examen372
+   81  touch create.sh
+   82  echo '#! /bin/bash' > create.sh
+   83  cmd //c tree //F ./
+   84  ./create.sh
+   85  ./create.sh
+   86  ./create.sh
+   87  ./create.sh
+   88  ./create.sh
+   89  ./create.sh
+   90  ./create.sh
+   91  ./create.sh
+   92  cd webapp
+   93  ./create.sh
+   94  cd ..
+   95  ./create.sh
+   96  ./create.sh
+   97  ./create.sh
+   98  ./create.sh
+   99  ./create.sh
+  100  cd ..
+  101  cd instrucciones/
+  102* mv examen372.md README.md
+  103  ls
+  104  nv README.md ~/Desktop/instrucciones/examen372
+  105  mv README.md ~/Desktop/instrucciones/examen372
+  106  cd..
+  107  cd ..
+  108  cd examen372/
+  109  history > history.txt
+  110  python -m venv virtual
+  111  ./virtual/Scripts/activate~
+  112  source ./virtual/Scripts/activate
+  113  pip install jupyterlab
+  114  jupyter lab
+  115  deactivate
+  116  history > history.txt
